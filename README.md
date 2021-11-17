@@ -1,0 +1,2 @@
+# TwitchBotCore
+Twitchのチャットbotのクライアントをライブラリ化した備忘録です
